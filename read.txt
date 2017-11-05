@@ -1,0 +1,4 @@
+copy	拷贝
+del		删除
+echo	打印
+REM		加注解或说明	rem message
